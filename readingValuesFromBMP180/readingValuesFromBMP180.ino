@@ -64,5 +64,5 @@ void loop() {
     Serial.println(" meters");
     
     Serial.println();
-    delay(500);
+    delay(500); //delay
 }
